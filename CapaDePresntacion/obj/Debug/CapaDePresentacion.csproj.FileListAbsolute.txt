@@ -1,0 +1,15 @@
+C:\Users\elver\source\repos\Wed3UTNApp\CapaDePresntacion\bin\Debug\CapaDePresntacion.exe.config
+C:\Users\elver\source\repos\Wed3UTNApp\CapaDePresntacion\bin\Debug\CapaDePresntacion.exe
+C:\Users\elver\source\repos\Wed3UTNApp\CapaDePresntacion\bin\Debug\CapaDePresntacion.pdb
+C:\Users\elver\source\repos\Wed3UTNApp\CapaDePresntacion\bin\Debug\CapaNegocio.dll
+C:\Users\elver\source\repos\Wed3UTNApp\CapaDePresntacion\bin\Debug\CapaNegocio.pdb
+C:\Users\elver\source\repos\Wed3UTNApp\CapaDePresntacion\obj\Debug\CapaDePresentacion.csproj.AssemblyReference.cache
+C:\Users\elver\source\repos\Wed3UTNApp\CapaDePresntacion\obj\Debug\CapaDePresentacion.csproj.SuggestedBindingRedirects.cache
+C:\Users\elver\source\repos\Wed3UTNApp\CapaDePresntacion\obj\Debug\CapaDePresntacion.fmrPrincipal2.resources
+C:\Users\elver\source\repos\Wed3UTNApp\CapaDePresntacion\obj\Debug\CapaDePresntacion.fmrPrincipal.resources
+C:\Users\elver\source\repos\Wed3UTNApp\CapaDePresntacion\obj\Debug\CapaDePresntacion.Properties.Resources.resources
+C:\Users\elver\source\repos\Wed3UTNApp\CapaDePresntacion\obj\Debug\CapaDePresentacion.csproj.GenerateResource.cache
+C:\Users\elver\source\repos\Wed3UTNApp\CapaDePresntacion\obj\Debug\CapaDePresentacion.csproj.CoreCompileInputs.cache
+C:\Users\elver\source\repos\Wed3UTNApp\CapaDePresntacion\obj\Debug\CapaDePresentacion.csproj.CopyComplete
+C:\Users\elver\source\repos\Wed3UTNApp\CapaDePresntacion\obj\Debug\CapaDePresntacion.exe
+C:\Users\elver\source\repos\Wed3UTNApp\CapaDePresntacion\obj\Debug\CapaDePresntacion.pdb
